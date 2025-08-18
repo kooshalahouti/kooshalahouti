@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Koosha</h1>
+<h1 align="center">Hi 👋, I'm Koosha, a Computer Engineering student</h1>
 <h3 align="center">A passionate software developer from Iran</h3>
+
 
 - 🔭 I’m currently working on **Frontend project**
 
