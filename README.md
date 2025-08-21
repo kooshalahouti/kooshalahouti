@@ -1,14 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koosha, a Computer Engineering student</h1>
 <h3 align="center">A passionate software developer from Iran</h3>
 
-
-- 🔭 I’m currently working on **Frontend project**
-
-- 🌱 I’m currently learning **AI**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kooshalahouti](https://github.com/kooshalahouti)
-
-- 💬 Ask me about **react, python**
 
 - 📫 How to reach me **kooshalahouti81@gmail.com**
 
